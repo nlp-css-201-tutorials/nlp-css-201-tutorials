@@ -10,8 +10,6 @@ If you are a graduate student or researcher who has some introductory knowledge 
 
 Watch past tutorials on [our YouTube channel](https://www.youtube.com/channel/UCcFcF9DkanjaK3HEk7bsd-A). 
 
-testing 123
-
 ## Tutorial format
 
 - **Introduction**: the facilitators introduce their method and the code/data associated with the method.
