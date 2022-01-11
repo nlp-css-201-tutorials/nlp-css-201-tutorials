@@ -1,124 +1,49 @@
 ---
 layout: default
 ---
+# NLP+CSS 201: Beyond the basics 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+This website hosts the upcoming tutorial series for advanced NLP methods, for computational social science scholars.
 
-[Link to another page](./another-page.html).
+Every few weeks, we will host some experts in the field of computational social science to present a new method in NLP, and to lead participants in an interactive exploration of the method with code and sample text data.
+If you are a graduate student or researcher who has some introductory knowledge of NLP (e.g. has learned text analysis from [SICSS](https://sicss.io/curriculum)) and wants to "level up", come join us!
 
-There should be whitespace between paragraphs.
+Watch past tutorials on [our YouTube channel](https://www.youtube.com/channel/UCcFcF9DkanjaK3HEk7bsd-A). 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+testing 123
 
-# Header 1
+## Tutorial format
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- **Introduction**: the facilitators introduce their method and the code/data associated with the method.
+- **Interaction**: the participants break out into small groups to test out the method using the provided code. The code includes several spots for experimenting with the method, which can help the participants better understand the benefits and limitations of the method. The participants may also bring their own data for analysis if desired.
+- **Conclusion**: the facilitators bring all participants together to collect their experiences with the method and to share final thoughts on possible improvements on the method.
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Tutorials will last one hour and we encourage participants to join live. However, we will also make the recordings and code publicly available afterwards.
 
 
-### Definition lists can be used with HTML syntax.
+## Logistics on joining tutorials live   
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+We will send out the tutorial video link to our mailing list a few days before the tutorial starts.
+If you want to join the mailing list, subscribe [here](https://groups.google.com/g/nlp-css-tutorials).
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## Schedule
 
-```
-The final element.
-```
+- February-May 2022: TBA. 
 
+## Hosts
+
+This tutorial series is organized by:
+
+<img src="https://ianbstewart.github.io/docs/istewart.jpg" alt="ian_pic" width="200"/>
+- [Ian Stewart](https://ianbstewart.github.io): post-doctoral fellow at University of Michigan; researches personalization and writing interventions for social applications
+
+<img src="https://kakeith.github.io/images/kk.jpg" alt="katie_pic" width="200"/>
+- [Katie Keith](https://kakeith.github.io/): post-doctoral researcher at AI2 and incoming Assistant Professor at Williams College (Fall 2022); researches causal inference with text and text-based social data science. 
+
+
+## Acknowledgments 
+We are deeply grateful for financial assistance from a [Social Science Research Council (SSRC)](https://www.ssrc.org/)/[Summer Institutes in Computational Social Science (SICSS)](https://sicss.io/) Research Grant.
+
+### Theme
+
+TBD
