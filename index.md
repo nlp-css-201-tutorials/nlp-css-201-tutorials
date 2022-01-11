@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-# NLP+CSS 201: Beyond the basics 
-
 This website hosts the upcoming tutorial series for advanced NLP methods, for computational social science scholars.
 
 Every few weeks, we will host some experts in the field of computational social science to present a new method in NLP, and to lead participants in an interactive exploration of the method with code and sample text data.
