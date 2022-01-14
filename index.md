@@ -24,7 +24,7 @@ If you want to join the mailing list, subscribe [here](https://groups.google.com
 
 ## Schedule
 
-- February-May 2022: TBA. 
+- February-May 2022: topics include dialogue, phrase extraction, analytical uncertainty, causal inference, multilingual NLP, social media preprocessing.
 
 ## Archive
 
