@@ -3,8 +3,6 @@ layout: default
 ---
 This website hosts the upcoming tutorial series for advanced NLP methods, for computational social science scholars.
 
-testing 123 testing
-
 Every few weeks, we will host some experts in the field of computational social science to present a new method in NLP, and to lead participants in an interactive exploration of the method with code and sample text data.
 If you are a graduate student or researcher who has some introductory knowledge of NLP (e.g. has learned text analysis from [SICSS](https://sicss.io/curriculum)) and wants to "level up", come join us!
 
