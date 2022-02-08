@@ -26,11 +26,10 @@ If you want to join the mailing list, subscribe [here](https://groups.google.com
 
 **Note**: all dates are tentative; we will send the final date/time for each tutorial on the mailing list prior to the tutorial.
 
-- 2/17: Moving from words to phrases when doing NLP
-	- Time: 12 PM ET
-	- Leaders: [Abe Handler](https://www.abehandler.com/), [Shufan Wang](https://people.cs.umass.edu/~shufanwang/)
-	- Abstract: Most people starting out with NLP think of text in terms of single-word units called "unigrams." But many concepts in documents can't be represented by single words. For instance, the single words "New" and "York" can't really represent the concept "New York." In this tutorial, you'll get hands-on practice using the phrasemachine package and the Phrase-BERT model to 1) extract multi-word expressions from a corpus of U.S. Supreme Court arguments and 2) use such phrases for downstream analysis tasks, such as analyzing the use of phrases among different groups or describing latent topics from a corpus.
-	- Background info: [Bag of What?](https://aclanthology.org/W16-5615.pdf); [Fightin' Words](http://languagelog.ldc.upenn.edu/myl/Monroe.pdf); [Phrase-BERT](https://aclanthology.org/2021.emnlp-main.846.pdf)
+| Date | Tutorial | Description | Leader | Background info |
+|---|---|---|---|---|
+| 2/17 | Moving from words to phrases when doing NLP| Most people starting out with NLP think of text in terms of single-word units called "unigrams." But many concepts in documents can't be represented by single words. For instance, the single words "New" and "York" can't really represent the concept "New York." In this tutorial, you'll get hands-on practice using the phrasemachine package and the Phrase-BERT model to 1) extract multi-word expressions from a corpus of U.S. Supreme Court arguments and 2) use such phrases for downstream analysis tasks, such as analyzing the use of phrases among different groups or describing latent topics from a corpus.| [Abe Handler](https://www.abehandler.com/), [Shufan Wang](https://people.cs.umass.edu/~shufanwang/) | [Bag of What?](https://aclanthology.org/W16-5615.pdf); [Fightin' Words](http://languagelog.ldc.upenn.edu/myl/Monroe.pdf); [Phrase-BERT](https://aclanthology.org/2021.emnlp-main.846.pdf) |
+
 - 3/2: Analyzing Conversations in Python Using ConvoKit
 	- Leader: [Jonathan Chang](https://www.cs.cornell.edu/~jpchang/)
 	- Abstract: ConvoKit is a Python toolkit for analyzing conversational data. It implements a number of conversational analysis methods and algorithms spanning from classical NLP techniques to the latest cutting edge, and also offers a database of conversational corpora in a standardized format. This tutorial will walk through an example of how to use ConvoKit, starting from loading a conversational corpus and building up to running several analyses and visualizations.
