@@ -25,7 +25,7 @@ If you want to join the mailing list, subscribe [here](https://groups.google.com
 ## Schedule
 
 **Note**: all dates are tentative; we will send the final date/time for each tutorial on the mailing list prior to the tutorial.
-All times are in US EST timezone (UTC-4) unless otherwise noted.
+All times are in US EST timezone (UTC-5) unless otherwise noted.
 
 | Date | Title | Description | Leader | Background info |
 |---|---|---|---|---|
