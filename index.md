@@ -31,7 +31,6 @@ All times are in US EST timezone (UTC-4) unless otherwise noted.
 |---|---|:--|---|---|-->
 
 
-
 ## Archive
 
 See below for links to materials for previous tutorials.
