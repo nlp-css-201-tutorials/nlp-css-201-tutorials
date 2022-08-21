@@ -5,28 +5,20 @@ This website hosts the completed tutorial series for advanced NLP methods, condu
 The series is intended for computational social science scholars with some introductory knowledge (e.g. those who have learned text analysis from [SICSS](https://sicss.io/curriculum)).
 Watch past tutorials on [our YouTube channel](https://www.youtube.com/channel/UCcFcF9DkanjaK3HEk7bsd-A). 
 
-<!-- ## Tutorial format
+<!--## Tutorial format
+>>>>>>> 1706ab1dea8f157fd4fc01e3430401a2d1e933ae
 
 - **Introduction**: the facilitators introduce their method and the code/data associated with the method.
 - **Interaction**: the participants break out into small groups to test out the method using the provided code. The code includes several spots for experimenting with the method, which can help the participants better understand the benefits and limitations of the method. The participants may also bring their own data for analysis if desired.
 - **Conclusion**: the facilitators bring all participants together to collect their experiences with the method and to share final thoughts on possible improvements on the method.
 
 Tutorials will last one hour and we encourage participants to join live. However, we will also make the recordings and code publicly available afterwards.
+-->
 
-
-## Logistics on joining tutorials live   
+<!--## Logistics on joining tutorials live   
 
 We will send out the tutorial video link to our mailing list a few days before the tutorial starts.
 If you want to join the mailing list, subscribe [here](https://groups.google.com/g/nlp-css-tutorials). -->
-
-## Schedule
-
-All times are in US EST timezone (UTC-4) unless otherwise noted.
-
-| Date | Title | Description | Leader | Background info |
-|---|---|:--|-\--|---|
-| 5/9, 12pm [RSVP](https://forms.gle/QRodnrtsBh2FbQGj9) | Word Embeddings for Descriptive Corpus Analysis: Digging Deeper into Analogies, Polysemy, and Stability | Word embeddings such as word2vec have recently garnered attention as potentially useful tools for analysis in social science. They promise an unsupervised method  to quantify the connotations of words, and compare these across time or different subgroups. However, when training or using word embeddings, researchers may find that they don’t work as well as expected, or produce unreplicable results.  We focus on three subtle issues in their use that could result in misleading observations: (1) indiscriminate use of analogical reasoning, which has been shown to underperform on many types of analogies; (2) the surprising prevalence of polysemous words and distributional similarity of antonyms, both leading to counterintuitive results; and (3) instability in nearest-neighbor distances caused by sensitivity to noise in the training process.  Through demonstrations, we will learn how to detect, understand, and most importantly mitigate the effects of these issues. | [Neha Kennard](https://nnkennard.github.io/) | N/A |
-
 
 ## Archive
 
@@ -45,21 +37,18 @@ See below for links to materials for previous tutorials.
 | Aggregated Classification Pipelines: Propagating Probabilistic Assumptions from Start to Finish | NLP has helped massively scale-up previously small-scale content analyses. Many social scientists train NLP classifiers and then measure social constructs (e.g sentiment) for millions of unlabeled documents which are then used as variables in downstream causal analyses. However, there are many points when one can make hard (non-probabilistic) or soft (probabilistic) assumptions in pipelines that use text classifiers: (a) adjudicating training labels from multiple annotators, (b) training supervised classifiers, and (c) aggregating individual-level classifications at inference time. In practice, propagating these hard versus soft choices down the pipeline can dramatically change the values of final social measurements.  In this tutorial, we will walk through data and Python code of a real-world social science research pipeline that uses NLP classifiers to infer many users’ aggregate “moral outrage” expression on Twitter. Along the way, we will quantify the sensitivity of our pipeline to these hard versus soft choices.  | [Katherine Keith](kakeith.github.io) |  [Code](https://colab.research.google.com/drive/1ulQSwlSlWTEglzBGVQXKstueIaX5Gm1f?usp=sharing); [Video](https://www.youtube.com/watch?v=snBaBuXKiDI); [Slides](https://docs.google.com/presentation/d/1I7aN5k6tRu6RXiehrAvWPDN5Fv8G56_IEZHmKhZoi9Y/edit?usp=sharing)|
 | Estimating causal effects of aspects of language with noisy proxies | Does the politeness of an email or a complaint affect how quickly someone responds to it? This question requires a causal inference: how quickly would someone have responded to an email had it not been polite? With observational data, causal inference requires ruling out all the other reasons why polite emails might be correlated with fast responses. To complicate matters, aspects of language such as politeness are not labeled in observed datasets. Instead, we typically use lexicons or trained classifiers to predict these properties for each text, creating a (probably noisy) proxy of the linguistic aspect of interest. In this talk, I'll first review the challenges of causal inference from observational data. Then, I'll use the motivating example of politeness and response times to highlight the specific challenges to causal inference introduced by working with text and noisy proxies. Next, I'll introduce recent results that establish assumptions and a methodology under which valid causal inference is possible. Finally, I'll demonstrate this methodology: we'll use semi-synthetic data and adapt a text representation method to recover causal effect estimates. | [Dhanya Sridhar](https://www.dsridhar.com/) | [Code](https://colab.research.google.com/drive/101rhkpnQInEkyPysdEmZhF2oZvEavmi6?usp=sharing); [Video](https://www.youtube.com/watch?v=InNTARvDqTM); [Slides](docs/sridhar_umsi_nlp_tutorial.pdf); |
 | Processing Code-mixed Text  | Code-mixing, i.e., the mixing of two or more languages in a single utterance or conversation, is an extremely common phenomenon in multilingual societies. It is amply present in user-generated text, especially in social media. Therefore, CSS research that handles such text requires to process code-mixing; there are also interesting CSS and socio-linguistic questions around the phenomenon of code-mixing itself. In this tutorial, we will equip you with some basic tools and techniques for processing code-mixed text, starting with hands-on experiments with word-level language identification, all the way up to methods for building code-mixed text classifiers using massively multilingual language models. | [Monojit Choudhury](https://www.microsoft.com/en-us/research/people/monojitc/), [Sanad Rizvi](https://github.com/mohdsanadzakirizvi) | [Code](https://colab.research.google.com/drive/1Yo0uhTB4SVkJgudc7lqycQ3tY9c5t4uP); [Video](https://www.youtube.com/watch?v=wZjptQuNHyI); [Slides](docs/CMTutorial.pdf) |
+| Word Embeddings for Descriptive Corpus Analysis: Digging Deeper into Analogies, Polysemy, and Stability | Word embeddings such as word2vec have recently garnered attention as potentially useful tools for analysis in social science. They promise an unsupervised method  to quantify the connotations of words, and compare these across time or different subgroups. However, when training or using word embeddings, researchers may find that they don’t work as well as expected, or produce unreplicable results.  We focus on three subtle issues in their use that could result in misleading observations: (1) indiscriminate use of analogical reasoning, which has been shown to underperform on many types of analogies; (2) the surprising prevalence of polysemous words and distributional similarity of antonyms, both leading to counterintuitive results; and (3) instability in nearest-neighbor distances caused by sensitivity to noise in the training process.  Through demonstrations, we will learn how to detect, understand, and most importantly mitigate the effects of these issues. | [Neha Kennard](https://nnkennard.github.io/) | [Code](https://bit.ly/embedding-tutorial-notebook); [Video](https://www.youtube.com/watch?v=qP9-jF8w13c); [Slides](https://bit.ly/embedding-tutorial-slides)|
 
 ## Hosts
 
-This tutorial series is organized by:
+This tutorial series was organized by:
 
 <img src="https://ianbstewart.github.io/docs/istewart.jpg" alt="ian_pic" width="200"/>
-- [Ian Stewart](https://ianbstewart.github.io): post-doctoral fellow at University of Michigan; researches personalization and writing interventions for social applications
+- [Ian Stewart](https://ianbstewart.github.io): senior scientist at Pacific Northwest National Laboratory (Fall 2022); researches personalization and writing interventions for social applications
 
 <img src="https://kakeith.github.io/images/kk.jpg" alt="katie_pic" width="200"/>
-- [Katie Keith](https://kakeith.github.io/): post-doctoral researcher at AI2 and incoming Assistant Professor at Williams College (Fall 2022); researches causal inference with text and text-based social data science. 
+- [Katie Keith](https://kakeith.github.io/): Assistant Professor at Williams College (Fall 2022); researches causal inference with text and text-based social data science. 
 
 
 ## Acknowledgments 
 We are deeply grateful for financial assistance from a [Social Science Research Council (SSRC)](https://www.ssrc.org/)/[Summer Institutes in Computational Social Science (SICSS)](https://sicss.io/) Research Grant.
-
-### Theme
-
-TBD
