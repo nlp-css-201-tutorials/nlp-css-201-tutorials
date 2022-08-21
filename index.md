@@ -1,14 +1,11 @@
 ---
 layout: default
 ---
-This website hosts the upcoming tutorial series for advanced NLP methods, for computational social science scholars.
-
-Every few weeks, we will host some experts in the field of computational social science to present a new method in NLP, and to lead participants in an interactive exploration of the method with code and sample text data.
-If you are a graduate student or researcher who has some introductory knowledge of NLP (e.g. has learned text analysis from [SICSS](https://sicss.io/curriculum)) and wants to "level up", come join us!
-
+This website hosts the completed tutorial series for advanced NLP methods, conducted from fall 2021 through spring 2022.
+The series is intended for computational social science scholars with some introductory knowledge (e.g. those who have learned text analysis from [SICSS](https://sicss.io/curriculum)).
 Watch past tutorials on [our YouTube channel](https://www.youtube.com/channel/UCcFcF9DkanjaK3HEk7bsd-A). 
 
-## Tutorial format
+<!-- ## Tutorial format
 
 - **Introduction**: the facilitators introduce their method and the code/data associated with the method.
 - **Interaction**: the participants break out into small groups to test out the method using the provided code. The code includes several spots for experimenting with the method, which can help the participants better understand the benefits and limitations of the method. The participants may also bring their own data for analysis if desired.
@@ -20,11 +17,10 @@ Tutorials will last one hour and we encourage participants to join live. However
 ## Logistics on joining tutorials live   
 
 We will send out the tutorial video link to our mailing list a few days before the tutorial starts.
-If you want to join the mailing list, subscribe [here](https://groups.google.com/g/nlp-css-tutorials).
+If you want to join the mailing list, subscribe [here](https://groups.google.com/g/nlp-css-tutorials). -->
 
 ## Schedule
 
-**Note**: all dates are tentative; we will send the final date/time for each tutorial on the mailing list prior to the tutorial.
 All times are in US EST timezone (UTC-4) unless otherwise noted.
 
 | Date | Title | Description | Leader | Background info |
