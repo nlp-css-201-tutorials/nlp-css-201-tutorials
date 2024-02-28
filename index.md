@@ -5,20 +5,11 @@ This website hosts the completed tutorial series for advanced NLP methods, condu
 The series is intended for computational social science scholars with some introductory knowledge (e.g. those who have learned text analysis from [SICSS](https://sicss.io/curriculum)).
 Watch past tutorials on [our YouTube channel](https://www.youtube.com/channel/UCcFcF9DkanjaK3HEk7bsd-A). 
 
-<!--## Tutorial format
->>>>>>> 1706ab1dea8f157fd4fc01e3430401a2d1e933ae
+## Paper
 
-- **Introduction**: the facilitators introduce their method and the code/data associated with the method.
-- **Interaction**: the participants break out into small groups to test out the method using the provided code. The code includes several spots for experimenting with the method, which can help the participants better understand the benefits and limitations of the method. The participants may also bring their own data for analysis if desired.
-- **Conclusion**: the facilitators bring all participants together to collect their experiences with the method and to share final thoughts on possible improvements on the method.
+The co-organizers summarized the planning and outcome of the NLP+CSS tutorials in a paper, which distills 5 key principles and a variety of lessons learned to guide future tutorial series in the space of "ML+X" research.
+The paper was published at the Teaching for NLP workshop at KONVENS 2023, and can be accessed [here](https://aclanthology.org/2023.teach4nlp-1.2.pdf).
 
-Tutorials will last one hour and we encourage participants to join live. However, we will also make the recordings and code publicly available afterwards.
--->
-
-<!--## Logistics on joining tutorials live   
-
-We will send out the tutorial video link to our mailing list a few days before the tutorial starts.
-If you want to join the mailing list, subscribe [here](https://groups.google.com/g/nlp-css-tutorials). -->
 
 ## Archive
 
